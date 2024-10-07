@@ -1,4 +1,4 @@
-# YouTube Channel Analysis of Kenyan Content##
+# YouTube Channel Analysis of Kenyan Content
 
 This project focuses on scraping data from Kenyan YouTube channels and performing comprehensive analysis using SQL. We start by collecting data through the YouTube Data API, targeting popular channels like Citizen TV Kenya and others with substantial content relevant to the Kenyan audience. The dataset consists of key metrics such as video titles, view counts, publication dates, and more. After scraping and cleaning the data, it's stored in a MySQL database to enable efficient querying and exploration. The structured data allows us to uncover insights like the total views per channel, ranking of videos, growth patterns, and overall content engagement.
 
